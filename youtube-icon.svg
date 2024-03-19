@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-228,0)">
+        <rect id="Artboard3" x="228" y="0" width="64" height="64" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect id="Artboard31" serif:id="Artboard3" x="228" y="0" width="64" height="64"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.9779,0,0,1.9779,-805.995,-32.6755)">
+                <path d="M550.715,16.463C553.187,16.463 555.191,18.467 555.191,20.938L555.191,44.402C555.191,46.874 553.187,48.878 550.715,48.878L527.251,48.878C524.779,48.878 522.775,46.874 522.775,44.402L522.775,20.938C522.775,18.467 524.779,16.463 527.251,16.463L550.715,16.463Z" style="fill:rgb(22,22,25);"/>
+                <clipPath id="_clip2">
+                    <path d="M550.715,16.463C553.187,16.463 555.191,18.467 555.191,20.938L555.191,44.402C555.191,46.874 553.187,48.878 550.715,48.878L527.251,48.878C524.779,48.878 522.775,46.874 522.775,44.402L522.775,20.938C522.775,18.467 524.779,16.463 527.251,16.463L550.715,16.463Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g id="youtube-svgrepo-com.svg" transform="matrix(0.0661314,0,0,0.0661314,538.983,32.6704)">
+                        <g transform="matrix(1,0,0,1,-400,-400)">
+                            <g>
+                                <path d="M633.85,116.951L166.15,116.951C74.388,116.951 0,191.338 0,283.1L0,516.901C0,608.663 74.388,683.051 166.15,683.051L633.85,683.051C725.612,683.051 800,608.663 800,516.901L800,283.1C800,191.338 725.612,116.951 633.85,116.951ZM521.484,411.376L302.726,515.711C296.897,518.491 290.163,514.241 290.163,507.784L290.163,292.593C290.163,286.044 297.074,281.799 302.915,284.759L521.673,395.616C528.178,398.911 528.065,408.239 521.484,411.376Z" style="fill:rgb(240,240,240);fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
